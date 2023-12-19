@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "kursadarbs:luminite_crystal"
+    }
+  },
+  "result": {
+    "item": "kursadarbs:luminite_boots",
+    "count": 1
+  }
+}

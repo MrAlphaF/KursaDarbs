@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "kursadarbs:luminite_crystal_ore"
+  },
+  "result": "kursadarbs:luminite_crystal",
+  "experience": 0.1,
+  "cookingtime": 100
+}

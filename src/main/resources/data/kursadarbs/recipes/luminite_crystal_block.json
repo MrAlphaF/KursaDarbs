@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "kursadarbs:luminite_crystal"
+    }
+  },
+  "result": {
+    "item": "kursadarbs:luminite_crystal_block",
+    "count": 1
+  }
+}

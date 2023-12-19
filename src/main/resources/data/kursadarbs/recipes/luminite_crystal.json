@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kursadarbs:luminite_crystal_block"
+    }
+  ],
+  "result": {
+    "item": "kursadarbs:luminite_crystal",
+    "count": 9
+  }
+}
